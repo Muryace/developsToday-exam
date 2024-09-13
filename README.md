@@ -13,3 +13,12 @@ Use next.js + react.js + node.js
    ```bash
    cd frontend
    npm i
+
+### Run
+   ```bash
+   cd backend
+   npm run dev
+
+   ```bash
+   cd frontend
+   npm run dev
